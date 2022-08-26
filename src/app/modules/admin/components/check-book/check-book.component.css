@@ -1,0 +1,14 @@
+#box{
+    height: 600px;
+    width: 50%;
+    background-color:rgb(244, 226, 236) ;
+}
+.text{
+    color:blue;
+    margin-left: 3px;
+    padding-top: 20px;
+}
+mark{
+    color: red;
+    background-color:rgb(244, 226, 236)  ;
+}

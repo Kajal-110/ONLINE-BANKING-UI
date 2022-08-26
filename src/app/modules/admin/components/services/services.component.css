@@ -1,0 +1,19 @@
+.container{
+margin-left:30% ;
+}
+.x{
+    height: 210px;
+    width: 50%;
+    margin-top: 20px;
+    background-color:rgba(79, 65, 87, 0.153);
+    
+}
+h5{
+    color:red;
+}
+h3{
+    color: green;
+}
+button{
+   margin-right: 50px;
+}
